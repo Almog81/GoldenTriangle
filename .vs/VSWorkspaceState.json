@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyApp",
+    "\\MyApp Tests",
+    "\\MyApp Tests\\E2ETests",
+    "\\MyApp Tests\\IntergrationTests",
+    "\\MyApp Tests\\TestsData",
+    "\\MyApp Tests\\UnitTests",
+    "\\MyApp\\Utilities"
+  ],
+  "SelectedNode": "\\Golden Triangle.sln",
+  "PreviewInSolutionExplorer": false
+}

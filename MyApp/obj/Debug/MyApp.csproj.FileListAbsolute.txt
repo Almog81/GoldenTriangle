@@ -1,0 +1,24 @@
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\bin\Debug\MyApp.exe
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\bin\Debug\MyApp.pdb
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.exe
+C:\Users\אלמוג\source\repos\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.pdb
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\bin\Debug\MyApp.exe.config
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\bin\Debug\MyApp.exe
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\bin\Debug\MyApp.pdb
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.exe
+G:\מחשבים אחרים\ה-מחשב נייד שלי - LEGION\Golden Triangle\Golden Triangle\MyApp\obj\Debug\MyApp.pdb
+C:\Automation\Golden Triangle\MyApp\bin\Debug\MyApp.exe.config
+C:\Automation\Golden Triangle\MyApp\bin\Debug\MyApp.exe
+C:\Automation\Golden Triangle\MyApp\bin\Debug\MyApp.pdb
+C:\Automation\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Automation\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+C:\Automation\Golden Triangle\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Automation\Golden Triangle\MyApp\obj\Debug\MyApp.exe
+C:\Automation\Golden Triangle\MyApp\obj\Debug\MyApp.pdb
